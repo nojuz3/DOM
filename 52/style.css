@@ -1,0 +1,28 @@
+.box{
+    display: flex;
+    height: 100vh;
+    background-image: linear-gradient(red, yellow);
+}
+.box-left{
+    width: 50%;
+    height: 80vh;
+}
+.box-right{
+    width: 50%;
+    height: 80vh;
+}
+.id-input{
+    width: 500px;
+    margin-top: 15px;
+}
+.name-input{
+    width: 500px;
+    margin-top: 15px;
+}
+.amount-input{
+    width: 500px;
+    margin-top: 15px;
+}
+.find{
+    width: 510px;
+}
